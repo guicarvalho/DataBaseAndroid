@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">BancoDeDados</string>
+    <string name="title">Título</string>
+    <string name="subtitle">Sub Titulo</string>
+    <string name="content">Conteúdo</string>
+    <string name="save">Cadastrar</string>
+    <string name="list">Listar</string>
+    <string name="listOfFeeds">Feeds Cadastrados</string>
+
+</resources>
